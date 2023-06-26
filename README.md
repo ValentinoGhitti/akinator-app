@@ -1,24 +1,12 @@
-# mi-primera-app
+# Akinator APP
 
-## Project setup
-```
-npm install
-```
+Es una app de decisiones estilo Akinator. Está hecha en Vue 3, la app permite hacer preguntas y obtener respuestas de "Sí"/"No" del Akinator. También consumo la API de Ghipy, para agregar un gif a la hora de obtener las respuestas. Es una app sencilla pero se repasa conceptos importantes de Vue y JS.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+### Temas puntuales
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Run your unit tests
-```
-npm run test:unit
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Watch
+- Métodos
+- Peticiones HTTP
+- Ternarios
+- Renderizado condicional
+- Estilos globales
